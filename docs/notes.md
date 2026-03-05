@@ -8,3 +8,4 @@ Notes and usage details for ai-website-builder.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- link the usage section
